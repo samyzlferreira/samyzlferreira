@@ -1,1 +1,2 @@
-<img width="443" height="448" alt="hello kitty coffee GIF" src="https://github.com/user-attachments/assets/6fdd0a30-153e-49de-9a16-d880102b4b5b" />
+<img width="100" height="120" alt="hello kitty glitter GIF" src="https://github.com/user-attachments/assets/caee0ee9-1ae1-4f15-99d5-d514d3fa92fb" />
+
