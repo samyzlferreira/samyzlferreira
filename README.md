@@ -12,9 +12,9 @@
 
 
 <div align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyzlferreira&theme=tokyonight"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyzlferreira&theme=catppuccin-latte"/>
 
-  <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samyzlferreira&theme=tokyonight"/>
+  <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samyzlferreira&theme=catppuccin-latte"/>
 </div>
 
 <br>
