@@ -11,7 +11,29 @@
 
 <br>
 
+---
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# Coding with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,git,flutter" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma,react,vite" />
+  </a>
+</p>
 
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
