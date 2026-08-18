@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/pacman.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/pacman.svg?v=1" width="100%"/>
 </p>
 
 <br>
