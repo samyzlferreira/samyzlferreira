@@ -20,18 +20,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,git,flutter" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma,react,vite" />
-  </a>
-</p>
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF69B4&section=footer"/>
