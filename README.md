@@ -5,7 +5,7 @@
 <div align="center">
   <img width="180" src="https://media3.giphy.com/media/kZqbBT64ECtjy/giphy.gif"/>
   <h3>✨ Bem-vinda(o) ao meu perfil! ✨</h3>
-  <p>👩‍💻 Em formação téc desenvolvimento de sistemas, SENAI-SP. Cursando 2° ano do ensino médio SESI-SP</p>
+  <p>👩‍💻 Em formação téc desenvolvimento de sistemas, SENAI-SP. Cursando 2° ano do ensino médio, SESI-SP</p>
 </div>
 
 <br>
