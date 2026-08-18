@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -12,19 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Pacman Graph
+        uses: pencilrebel/pacman-contribution-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # O modo "pacman" é ativado automaticamente pelo Platane/snk
-          # As cores abaixo garantem o visual clássico
-          outputs: |
-            dist/github-snake.svg?color_snake=red&color_dots=#bfd6f6&color_fork=blue
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_dots=#bfd6f6&color_fork=blue
+          user_name: ${{ github.repository_owner }}
+          # Gera o arquivo pacman.svg na branch output
+          output_path: dist/pacman.svg
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
