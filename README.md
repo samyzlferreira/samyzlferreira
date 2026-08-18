@@ -6,7 +6,7 @@
 
 <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samyzlferreira&theme=tokyonight"/>
 
-<img width="200" src="https://media3.giphy.com/media/R3128AKZvdVW8/giphy.gif"/>
+<img width="200" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif"/>
 
 </div>
 
