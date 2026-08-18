@@ -13,3 +13,6 @@
 <br>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/github-snake.svg" width="100%"/>
+</p>
