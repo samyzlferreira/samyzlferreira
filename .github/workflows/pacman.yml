@@ -22,10 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          # Configuração visual para transformar a cobrinha no estilo Pac-Man com labirinto e fantasmas
-          # (O snk aceita o modo de jogo clássico de labirinto por padrão quando configurado)
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_dots=#bfd6f6
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
