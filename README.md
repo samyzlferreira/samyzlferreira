@@ -6,8 +6,7 @@
 
 <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samyzlferreira&theme=tokyonight"/>
 
-<img width="200" src= "![Uploading giphy.gif…]()"
-/>
+<img width="200" src="https://github.com/samyzlferreira/samyzlferreira/assets/hello-kitty-pink.gif"/>
 
 </div>
 
