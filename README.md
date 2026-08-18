@@ -7,6 +7,8 @@
 
 <img width="240" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samyzlferreira&theme=tokyonight"/>
 
+<img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5yLWIWGQKFKn3WJjYyWqiouh2cbO90-duCPPjXwbIg&s=10"/>
+
 </div>
 
 <br>
