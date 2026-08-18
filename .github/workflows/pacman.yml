@@ -12,17 +12,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Pacman Graph
         uses: pencilrebel/pacman-contribution-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           user_name: ${{ github.repository_owner }}
-          # Gera o arquivo pacman.svg na branch output
           output_path: dist/pacman.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
