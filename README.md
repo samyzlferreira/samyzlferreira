@@ -10,9 +10,5 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samyzlferreira/samyzlferreira/output/pacman.svg?v=1" width="100%"/>
-</p>
-
 <img src="https://raw.githubusercontent.com/Breno-Frazao/Breno-Frazao/output/pacman.svg" width="100%">
 <br>
