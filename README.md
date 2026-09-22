@@ -18,13 +18,10 @@ Desenvolvimento de Sistemas • Informática • Logística
 
 Oi! Eu sou a **Samyra** e estou em formação em **Desenvolvimento de Sistemas pelo SENAI**.
 
-Também sou **Técnica em Informática** e **Técnica em Logística pelo IPP**. Tenho **inglês intermediário**, após 3 anos de curso no CCAA.
-
-Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em soluções através da tecnologia.
-
+Também sou **Técnica em Informática** e **Técnica em Logística pelo IPP**. 
 ---
 
-<h2 style="color:#E98CAF; font-family:Georgia, serif;">Tecnologias</h2>
+<h2 style="color:#E98CAF; font-family:Georgia, serif;"></h2>
 
 <div align="center">
 
