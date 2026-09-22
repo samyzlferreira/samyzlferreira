@@ -21,7 +21,7 @@ Oi! Eu sou a **Samyra** e estou em formação em **Desenvolvimento de Sistemas p
 Também sou **Técnica em Informática** e **Técnica em Logística pelo IPP**. 
 ---
 
-<h2 style="color:#E98CAF; font-family:Georgia, serif;"></h2>
+<h2 style="color:#E98CAF; font-family:Georgia, serif;">Linguagens</h2>
 
 <div align="center">
 
