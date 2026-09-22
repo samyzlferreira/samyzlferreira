@@ -1,14 +1,20 @@
 <div align="center">
 
-<h1 style="color:#ff1493;">Olá, eu sou a Samyra!</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8A8C8&height=120&section=header"/>
 
-<h3 style="color:#ff69b4;">Desenvolvimento de Sistemas • Informática • Logística</h3>
+<h1 style="color:#E98CAF; font-family:Georgia, serif;">
+Oi, eu sou a Samyra!
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=header"/>
+<p style="color:#D98AA9; font-family:Georgia, serif; font-size:18px;">
+Desenvolvimento de Sistemas • Informática • Logística
+</p>
 
 </div>
 
-## <span style="color:#ff1493;">Sobre mim</span>
+---
+
+<h2 style="color:#E98CAF; font-family:Georgia, serif;">Sobre mim</h2>
 
 Oi! Eu sou a **Samyra** e estou em formação em **Desenvolvimento de Sistemas pelo SENAI**.
 
@@ -18,53 +24,58 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em sol
 
 ---
 
-## <span style="color:#ff1493;">Tecnologias</span>
+<h2 style="color:#E98CAF; font-family:Georgia, serif;">Tecnologias</h2>
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-ff1493?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff1493?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge\&logo=javascript\&logoColor=white)
-![C](https://img.shields.io/badge/C-ff1493?style=for-the-badge\&logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff1493?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F8A8C8?style=for-the-badge\&logo=html5\&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-F8A8C8?style=for-the-badge\&logo=css3\&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F8A8C8?style=for-the-badge\&logo=javascript\&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-F8A8C8?style=for-the-badge\&logo=c\&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-F8A8C8?style=for-the-badge\&logo=mysql\&logoColor=ffffff)
 
 </div>
 
 ---
 
-## <span style="color:#ff1493;">Sobre mim</span>
+<h2 style="color:#E98CAF; font-family:Georgia, serif;">Sobre mim</h2>
 
-* Gosto de cozinhar
-* Gosto de pintar
-* Gosto de assistir séries
+<p style="color:#555555; font-family:Georgia, serif;">
+
+• Gosto de cozinhar <br>
+• Gosto de pintar <br>
+• Gosto de assistir séries
+
+</p>
 
 ---
 
-## <span style="color:#ff1493;">Contato</span>
+<h2 style="color:#E98CAF; font-family:Georgia, serif;">Contato</h2>
 
 <div align="center">
 
 <a href="https://github.com/samyzlferreirao">
-<img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-F8A8C8?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/samyraasf/">
-<img src="https://img.shields.io/badge/Instagram-ff1493?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-F8A8C8?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13ETTwaYwKMfmg/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/13ETTwaYwKMfmg/giphy.gif" width="240">
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8A8C8&height=100&section=footer"/>
 
 </div>
+
 
