@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A8C8&height=120&section=header"/>
 
-<h1 style="color:#E98CAF; font-family:Georgia, serif;">
-Samyra Ferreira
-</h1>
-
 <p style="color:#D98AA9; font-family:Georgia, serif; font-size:18px;">
 Desenvolvimento de Sistemas • Informática • Logística
 </p>
