@@ -12,15 +12,6 @@ Desenvolvimento de Sistemas • Informática • Logística
 
 </div>
 
----
-
-<h2 style="color:#E98CAF; font-family:Georgia, serif;">Sobre mim</h2>
-
-Oi! Eu sou a **Samyra** e estou em formação em **Desenvolvimento de Sistemas pelo SENAI**.
-
-Também sou **Técnica em Informática** e **Técnica em Logística pelo IPP**. 
----
-
 <h2 style="color:#E98CAF; font-family:Georgia, serif;">Linguagens</h2>
 
 <div align="center">
