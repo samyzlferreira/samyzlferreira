@@ -20,19 +20,6 @@ Desenvolvimento de Sistemas • Informática • Logística
 
 </div>
 
----
-
-<h2 style="color:#E98CAF; font-family:Georgia, serif;">Sobre mim</h2>
-
-<p style="color:#555555; font-family:Georgia, serif;">
-
-• Gosto de cozinhar <br>
-• Gosto de pintar <br>
-• Gosto de assistir séries
-
-</p>
-
----
 
 <h2 style="color:#E98CAF; font-family:Georgia, serif;">Contato</h2>
 
