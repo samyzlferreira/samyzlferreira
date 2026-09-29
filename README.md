@@ -37,11 +37,6 @@ Desenvolvimento de Sistemas • Informática • Logística
 
 <br><br>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/13ETTwaYwKMfmg/giphy.gif" width="240">
-
-</div>
 
 <div align="center">
 
